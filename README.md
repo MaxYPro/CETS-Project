@@ -84,21 +84,21 @@ git clone https://github.com/MaxYPro/CETS-Project.git
 C:\xampp\htdocs\cets
 ```
 
-3. Import the database:
+3. Start up XAMPP:
+- Start **Apache** & **MySQL** in XAMPP
+
+4. Import the database:
 - Open **phpMyAdmin**
+```
+http://localhost/phpmyadmin
+```
 - Create a database called `cets_db`
 - Import the provided SQL file (`cets_db.sql`)
 
-4. Configure database connection in:
-```
-C:\xampp\htdocs\CETS-Project
-```
-
-5. Run the project:
-- Start **Apache** & **MySQL** in XAMPP
+5. Run the Website:
 - Open browser and go to:
 ```
-http://localhost/CETS-Project
+http://localhost/cets
 ```
 
   Accounts for Testing:
