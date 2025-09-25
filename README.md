@@ -90,7 +90,9 @@ C:\xampp\htdocs\CETS-Project
 - Import the provided SQL file (`cets_db.sql`)
 
 4. Configure database connection in:
+```
 C:\xampp\htdocs\CETS-Project
+```
 
 5. Run the project:
 - Start **Apache** & **MySQL** in XAMPP
