@@ -41,7 +41,7 @@ The **Cinema and Event Ticketing System (CETS)** is a full-stack web application
 - **Local Development:** XAMPP  
 
 ---
-
+```
 ## 📂 Project Structure
 
 CETS-Project/
@@ -69,7 +69,7 @@ CETS-Project/
 ├── about.php # About page
 ├── contact.php # Contact page
 └── nav.php # Navigation bar
-
+```
 
 ---
 
