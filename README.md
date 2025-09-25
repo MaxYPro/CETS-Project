@@ -75,8 +75,9 @@ CETS-Project/
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/MaxYPro/CETS-Project.git
+```
+git clone https://github.com/MaxYPro/CETS-Project.git
+```
 
 2. Move the project into your **XAMPP `htdocs`** folder:
 ```
@@ -94,9 +95,9 @@ C:\xampp\htdocs\CETS-Project
 5. Run the project:
 - Start **Apache** & **MySQL** in XAMPP
 - Open browser and go to:
-  ```
-  http://localhost/CETS-Project
-  ```
+```
+http://localhost/CETS-Project
+```
 
   Accounts for Testing:
 ```
