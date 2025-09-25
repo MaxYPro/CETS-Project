@@ -32,7 +32,7 @@ The **Cinema and Event Ticketing System (CETS)** is a full-stack web application
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tools Used
 
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Backend:** PHP 
