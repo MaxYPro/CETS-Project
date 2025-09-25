@@ -79,12 +79,14 @@ CETS-Project/
    git clone https://github.com/MaxYPro/CETS-Project.git
 
 2. Move the project into your **XAMPP `htdocs`** folder:
+```
 C:\xampp\htdocs\CETS-Project
+```
 
 4. Import the database:
 - Open **phpMyAdmin**
-- Create a database called `cets`
-- Import the provided SQL file (`cets.sql` if included)
+- Create a database called `cets_db`
+- Import the provided SQL file (`cets_db.sql`)
 
 4. Configure database connection in:
 C:\xampp\htdocs\CETS-Project
