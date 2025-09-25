@@ -57,7 +57,6 @@ CETS-Project/
 │ ├── auth.php # Authentication logic
 │ ├── logout.php # Logout handling
 │ ├── cancel_booking.php # Cancel booking
-│ └── ... # Other backend logic
 │
 ├── index.php # Homepage
 ├── login.php # Login page
