@@ -35,11 +35,10 @@ The **Cinema and Event Ticketing System (CETS)** is a full-stack web application
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** PHP (with prepared statements for security)  
+- **Backend:** PHP 
 - **Database:** MySQL  
 - **Version Control:** Git + GitHub  
 - **Local Development:** XAMPP  
-- **Icons & UI:** Font Awesome  
 
 ---
 
@@ -77,8 +76,9 @@ CETS-Project/
    git clone https://github.com/MaxYPro/CETS-Project.git
 
 2. Move the project into your **XAMPP `htdocs`** folder:
+C:\xampp\htdocs\CETS-Project
 
-3. Import the database:
+4. Import the database:
 - Open **phpMyAdmin**
 - Create a database called `cets`
 - Import the provided SQL file (`cets.sql` if included)
