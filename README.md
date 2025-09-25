@@ -45,26 +45,30 @@ The **Cinema and Event Ticketing System (CETS)** is a full-stack web application
 ## 📂 Project Structure
 
 CETS-Project/
-│── css/ # Stylesheets
+├── css/ # Stylesheets
 │ ├── account.css
 │ ├── profile.css
 │ └── style.css
 │
-│── img/ # Images (logos, assets)
+├── img/ # Images (logos, assets)
 │
-│── php/ # PHP backend files
+├── php/ # PHP backend files
 │ ├── db.php # Database connection
 │ ├── auth.php # Authentication logic
 │ ├── logout.php # Logout handling
-│ └── ...
+│ ├── cancel_booking.php # Cancel booking
+│ └── ... # Other backend logic
 │
-│── index.php # Homepage
-│── login.php # Login page
-│── register.php # Register page
-│── movies.php # Movies list
-│── events.php # Events list
-│── admin.php # Admin dashboard
-│── profile.php # User profile
+├── index.php # Homepage
+├── login.php # Login page
+├── register.php # Register page
+├── movies.php # Movies list
+├── events.php # Events list
+├── admin.php # Admin dashboard
+├── profile.php # User profile
+├── about.php # About page
+├── contact.php # Contact page
+└── nav.php # Navigation bar
 
 
 ---
