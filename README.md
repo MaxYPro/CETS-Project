@@ -98,6 +98,14 @@ C:\xampp\htdocs\CETS-Project
   http://localhost/CETS-Project
   ```
 
+  Accounts for Testing:
+```
+  Username   Email             Password   Role
+
+  Maxim      maxim@gmail.com   maxim      (user)
+  Test       test@gmail.com    test       (user)
+  Admin      admin@gmail.com   admin      (admin)
+```
 ---
 
 ## 👨‍💻 Team Members
