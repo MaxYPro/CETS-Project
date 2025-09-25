@@ -79,9 +79,9 @@ CETS-Project/
 git clone https://github.com/MaxYPro/CETS-Project.git
 ```
 
-2. Move the project into your **XAMPP `htdocs`** folder:
+2. Move the website folder `cets` from CETS-Project.zip into your **XAMPP `htdocs`** folder :
 ```
-C:\xampp\htdocs\CETS-Project
+C:\xampp\htdocs\cets
 ```
 
 3. Import the database:
