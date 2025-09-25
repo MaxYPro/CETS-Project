@@ -84,7 +84,7 @@ git clone https://github.com/MaxYPro/CETS-Project.git
 C:\xampp\htdocs\CETS-Project
 ```
 
-4. Import the database:
+3. Import the database:
 - Open **phpMyAdmin**
 - Create a database called `cets_db`
 - Import the provided SQL file (`cets_db.sql`)
