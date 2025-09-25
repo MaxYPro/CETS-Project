@@ -108,6 +108,5 @@ C:\xampp\htdocs\CETS-Project
 
 ## 📜 License
 
-This project is for **educational purposes** as part of the FdSc / Cert HE Computing course at **Elizabeth School of London**.  
-Not intended for commercial use.
-
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute this project for personal or commercial purposes.
